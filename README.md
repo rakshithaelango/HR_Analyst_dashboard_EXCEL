@@ -3,14 +3,23 @@ HR_Analyst_dashboard_EXCEL
 
 ## KEY METRICS:
 Finding Total employees.
+
 Finding Active employees.
+
 Attrition rate.
+
 Average age.
+
 Total emplyoee by gender.
+
 Education wise attrition.
+
 Attrition by job role.
+
 Department wise attrition.
+
 Age wise attrition.
+
 Age wise attrition.
 
 ## IN-DEPTH DETAILS OF CREATING DASHBOARD
